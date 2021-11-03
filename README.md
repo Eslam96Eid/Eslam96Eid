@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi, I'm [Eslam Eid!](https://pawan.live) 👋
 
-<!--
-**Eslam96Eid/Eslam96Eid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
-Here are some ideas to get you started:
+<a href="https://linkedin.com/in/imthepk">
+  <img align="left" alt="Eslam's Linkdein" width="22px" src="https://www.linkedin.com/in/eslam-eid-51950b133" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
+
