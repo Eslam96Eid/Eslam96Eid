@@ -7,7 +7,5 @@
 </a>
 
 
-### Show some ❤️ by starring some of the repositories!
-
-</div>
+### Show some ❤️ by staring some of the repositories!
 
